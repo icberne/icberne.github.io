@@ -1,4 +1,12 @@
----title: Test - Language Caféslayout: pagepermalink: /test-language-cafes/---I want to include HTML
+---
+title: Test - Language Cafés
+layout: page
+permalink: /test-language-cafes/
+---
+
+I want to include HTML
+
+
 - one- two 
 
 
@@ -7,6 +15,7 @@
 	
 		
             ## Les ateliers de langues
+
             
             
                  
@@ -20,6 +29,7 @@
                                                         ### 
                                                             Conversation en Allemand
                                                         
+
                                                     ](Lunch-en-Allemand)
 
                                                     
@@ -42,6 +52,7 @@
                                                     [
                                                         14/08 :		
                                                         ### Conversation en Allemand
+
                                                     ](Lunch-en-Allemand)
                                                 
                                             
@@ -56,6 +67,7 @@
                                                         ### 
                                                             Conversation en anglais
                                                         
+
                                                     ](Conversation-en-anglais)
 
                                                     
@@ -78,6 +90,7 @@ Atelier animé par Zelda.
                                                     [
                                                         13/03 :		
                                                         ### Conversation en anglais
+
                                                     ](Conversation-en-anglais)
                                                 
                                             
@@ -92,6 +105,7 @@ Atelier animé par Zelda.
                                                         ### 
                                                             Conversation en bernois
                                                         
+
                                                     ](Conversation-en-bernois)
 
                                                     
@@ -116,6 +130,7 @@ Pas de jour fixe.
                                                     [
                                                         13/03 :		
                                                         ### Conversation en bernois
+
                                                     ](Conversation-en-bernois)
                                                 
                                             
@@ -130,6 +145,7 @@ Pas de jour fixe.
                                                         ### 
                                                             Conversation en espagnol
                                                         
+
                                                     ](Conversation-en-espagnol)
 
                                                     
@@ -150,6 +166,7 @@ Pas de jour fixe.
                                                     [
                                                         13/03 :		
                                                         ### Conversation en espagnol
+
                                                     ](Conversation-en-espagnol)
                                                 
                                             
@@ -164,6 +181,7 @@ Pas de jour fixe.
                                                         ### 
                                                             Conversation en Italien
                                                         
+
                                                     ](Conversation-en-Italien)
 
                                                     
@@ -186,6 +204,7 @@ Atelier animé par Marisa.
                                                     [
                                                         13/03 :		
                                                         ### Conversation en Italien
+
                                                     ](Conversation-en-Italien)
                                                 
                                             
@@ -200,6 +219,7 @@ Atelier animé par Marisa.
                                                         ### 
                                                             Conversation en français
                                                         
+
                                                     ](Conversation-en-francais)
 
                                                     
@@ -226,6 +246,7 @@ Inscrivez-vous directement auprès de la responsable d’atelier (nom et&nbsp;(.
                                                     [
                                                         13/03 :		
                                                         ### Conversation en français
+
                                                     ](Conversation-en-francais)
                                                 
                                             
@@ -240,6 +261,7 @@ Inscrivez-vous directement auprès de la responsable d’atelier (nom et&nbsp;(.
                                                         ### 
                                                             Conversation en russe
                                                         
+
                                                     ](Conversation-en-russe)
 
                                                     
@@ -262,6 +284,7 @@ Atelier animé par Elena.
                                                     [
                                                         13/03 :		
                                                         ### Conversation en russe
+
                                                     ](Conversation-en-russe)
                                                 
                                             

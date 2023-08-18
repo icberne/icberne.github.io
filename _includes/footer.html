@@ -1,3 +1,4 @@
+<!--
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
@@ -17,5 +18,9 @@
     {% endunless %}
   </ul>
 </div>
+-->
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">
+	<span class=footer-left>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</span>
+	<span class="footer-right">{{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>. &nbsp; <a href="{{site.repository}}/edit/gh-pages/{{ page.path }}"><image src="/assets/images/pencil-grey-bg.png" alt="edit" width="20" length="20"></a></span>
+</div>
