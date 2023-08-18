@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "IC Berne"
+  name             : # "IC Berne"
   avatar           : "/assets/images/Logo-blue.png"
   bio              : # "I am an **amazing** person."
   location         : # "Berne, Switzerland"
