@@ -6,10 +6,7 @@ permalink: /test-language-cafes/
 
 I want to include HTML
 
-
 - one- two 
-
-
 				
 	
 	
@@ -296,4 +293,7 @@ Atelier animé par Elena.
 				 
 			
 	   
+
+
+
 

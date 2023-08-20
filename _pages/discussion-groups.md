@@ -6,15 +6,10 @@ permalink: /discussion-groups/
 
 **Discussion groups**
 
-
 - Join any chat group that interests you. There is no requirement to be active. Introduce yourself and leave the chat whenever you wish. Please say goodbye when you do leave.
-
 - We chat at any time and we meet occasionally.
-
 - Meeting may be held at the Cheminee Room of the Bruder Klaus church, the GenerationenHaus next to the railway station or the Ref. Forum locale in Länggasse, or anywhere decided by the group.
-
 - See the ICB Newsletter or the individual chat for up-to-date information.
-
 |**Proposals of Discussion themes
 **|Introduction of new themes or links to interesting topics|
 |[www.tinyurl.com/BernAgora](https://tinyurl.com/BernAgora)|
@@ -47,3 +42,5 @@ permalink: /discussion-groups/
 |**Discussions about spirituality**|
 |About theology and religions and humanism and athiesm|
 |Ask Graham for details.|
+s.|
+

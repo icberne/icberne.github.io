@@ -6,16 +6,12 @@ permalink: /general-interest-groups/
 
 # 
 
-
-
-
 - *Join any chat group of interest to you. *
 - *You do not need to be active, but please share your knowledge*
 - *.Introduce yourself when you join*
 - *Leave the chat whenever you like*
 - But *Please say goodbye when you do*
 - We also have chats for Threema and SIgnal users, see below. 
-
 |**General Groups**|**When and Where**|
 |---|---|
 |**General conversation and support**|
@@ -33,5 +29,8 @@ permalink: /general-interest-groups/
 |**Signal users**|
 |For those who use this messaging alternative|
 |[www.tinyurl.com/ICB-Signal-Chat](http://www.tinyurl.com/ICB-Signal-Chat)|Online chat|
+
+
+|
 
 

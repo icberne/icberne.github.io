@@ -6,7 +6,6 @@ permalink: /admin-links/
 
 ***These are links to chat groups, google pages, dropbox, and other places which are useful for the administration of the club*.** 
 
-
 |**Administrative Links**|
 |---|
 |**ICB Executive Committee**|
@@ -40,5 +39,6 @@ permalink: /admin-links/
 ||
 |**Club Archive **|(on Dropbox)|
 |[www.dropbox.com/home/ICB/](http://www.dropbox.com/home/ICB/)|Folders: Administration, BGM, Groupspaces site, Newsletters|List of Administrative Links
+
 
 

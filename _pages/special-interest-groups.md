@@ -6,9 +6,7 @@ permalink: /special-interest-groups/
 
 *You can join whichever group interests you. Don’t feel bad about saying goodbye and leaving, we understand if you have too much to keep up with!*
 
-
 **On the chats, the latest situation of lockdown events in Berne is occasionally reviewed, and events will be proposed when possible.**
-
 
 |**Special Interest Groups**|**When and Where**|
 |---|---|
@@ -48,5 +46,7 @@ permalink: /special-interest-groups/
 |**Investment and cryptocurrencies**|
 |[www.tinyurl.com/Berne-talks-Money](http://www.tinyurl.com/Berne-talks-Money)|Discussion and events|
 - 
+
+
 
 
