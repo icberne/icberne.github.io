@@ -25,7 +25,7 @@ url                      : https://icberne.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : https://github.com/icberne/icberne.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/Logo-blue.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : # "IC Berne"
-  avatar           : "/assets/images/Logo-blue.png"
+  avatar           : # "/assets/images/Logo-blue.png"
   bio              : # "I am an **amazing** person."
   location         : # "Berne, Switzerland"
   email            :
