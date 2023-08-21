@@ -2,6 +2,9 @@
 title: Discussion groups
 layout: page
 permalink: /discussion-groups/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 **Discussion groups**
@@ -42,5 +45,3 @@ permalink: /discussion-groups/
 |**Discussions about spirituality**|
 |About theology and religions and humanism and athiesm|
 |Ask Graham for details.|
-s.|
-

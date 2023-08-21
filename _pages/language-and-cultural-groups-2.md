@@ -2,6 +2,9 @@
 title: Language and Cultural Groups
 layout: page
 permalink: /language-and-cultural-groups-2/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 - **We have monthly or occasional meetings** in a city cafe, or online meetings using zoom, or conversation on WhatsApp. The current corona regulatiohs are respected, and real life events are proposed when possible.- **Planning and conversation takes place in the WhatsApp chat groups or Google groups.**
@@ -33,10 +36,4 @@ permalink: /language-and-cultural-groups-2/
 |**Turkish Cafe**|
 |** **|[www.tinyurl.com/Berne-speaks-Turkish](http://www.tinyurl.com/Berne-talks-Arabic)|Katja|Once a month with the Arabic group..|
 | |**LIterature (Reading and Writing)**|Graham|See the separate page for chats ...|
-
-
-
-
-
-
 

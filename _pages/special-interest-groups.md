@@ -2,6 +2,9 @@
 title: Special Interest Groups
 layout: page
 permalink: /special-interest-groups/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 *You can join whichever group interests you. Don’t feel bad about saying goodbye and leaving, we understand if you have too much to keep up with!*
@@ -45,8 +48,3 @@ permalink: /special-interest-groups/
 |[www.tinyurl.com/Talk-Infotech](http://www.tinyurl.com/Talk-Infotech)|Discussion and events|
 |**Investment and cryptocurrencies**|
 |[www.tinyurl.com/Berne-talks-Money](http://www.tinyurl.com/Berne-talks-Money)|Discussion and events|
-- 
-
-
-
-

@@ -2,6 +2,9 @@
 title: Sports Groups
 layout: page
 permalink: /sports-groups/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 These are the chats for sports activities. Mosst are open to non-members*** *.**
@@ -45,4 +48,3 @@ www.tinyurl.com/Berne-Tennis](http://www.tinyurl.com/Berne-Tennis)|Chagai|Open t
 |[www.tinyurl.com/Berne-Climbing](http://www.tinyurl.com/Berne-Climbing)|(non-ICB)|Group for climbing and bouldering, indoors and outdoors, via ferrata. Places and plans.|
 |**Rafting**|
 |[www.tinyurl.com/Berne-Rafting](http://www.tinyurl.com/Berne-Rafting)| |(none)|River and lake rafting, kayaking and canoeing, sailing, stand-up paddling and wind-surfing, and anything which might be invented next week. |
-|

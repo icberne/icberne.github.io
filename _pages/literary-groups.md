@@ -2,6 +2,9 @@
 title: Literary Groups
 layout: page
 permalink: /literary-groups/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 - **We have monthly or occasional meetings** in a city cafe, or online meetings using zoom, or conversation on WhatsApp. The current lockdown situation is respected, and real life events are proposed when possible.- **Planning and conversation takes place in the WhatsApp chat groups or Google groups.**- **From the Main "Sophie" group, the other groups are linked **when something is happening, like a story to be discussed.  Contact Graham for information.- ***Membership is generally restricted to members of the International Club***- The "*Sophie group*" has existed since 2002 and so we have lots of background.
@@ -42,7 +45,4 @@ permalink: /literary-groups/
 |[www.tinyurl.com/ICB-Writing](http://www.tinyurl.com/ICB-Writing)|Graham, Stefan|For writing short texts and poems at any time. Occasional meetings ot the "Calliope" group.|
 |**Spirit of Rumi**|
 |[www.tinyurl.com/Spirit-of-Rumi ](http://www.tinyurl.com/Spirit-of-Rumi)|Stefan|New group for those who appreciate writings in the style of Basko, Iqbal, Rumi, etc, and Gaia themes|
-
-
-
 

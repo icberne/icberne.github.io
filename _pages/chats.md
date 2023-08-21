@@ -2,6 +2,9 @@
 title: Chats
 layout: page
 permalink: /chats/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 We have many **special interest groups ** which share their information using WhatsApp chats and google groups. Click below to go to linked lists of these groups, and join the ones that interest you.
@@ -23,8 +26,4 @@ See the Calendar in the ICB Newsletter or on the [Website](https://icberne.org/c
 We have both online (zoom) and in-person (real-life) activities.
 
 See the [Blog ](https://icberne.org/blog/)for past activities and events.
-
-
- events.
-
 

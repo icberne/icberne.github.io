@@ -2,6 +2,9 @@
 title: Communications
 layout: page
 permalink: /communications/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 - **ICB Executive Committee** **and activity leaders **are listed a printed Newsletter. 
@@ -10,14 +13,6 @@ permalink: /communications/
 - **News**: We use emails for the latest club news, or find [News ](https://icberne.org/category/news/)on the blog
 - **Blog** at [**icberne.org/blog**/](http://icberne.org/blog/)
 To post or comment, you will need a WordPress account and authorization
-- ** Facebook page** is at [**www.facebook.com/groups/icberne**](http://www.facebook.com/groups/icberne)&nbsp;
+- **Facebook page** is at [**www.facebook.com/groups/icberne**](http://www.facebook.com/groups/icberne)&nbsp;
 - **WhatsApp **is for special interest groups and discussions. 
 - We can also meet online using **Zoom**.&nbsp;;
-
-
-
-
-
-
-
-

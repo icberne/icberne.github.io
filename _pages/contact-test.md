@@ -2,6 +2,9 @@
 title: Contact - Test
 layout: page
 permalink: /contact-test/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 If you give us your postal address we will send you our Newsletter. Take part in our activities and meet our members, and in a month or two we will ask you if you wish to join the Club.
@@ -16,14 +19,4 @@ Postfach
 3000 Bern
 
 [contact@icberne.org](mailto:contact@example.com)
-
-m)
-
-
-
-
-
-
-
-
 

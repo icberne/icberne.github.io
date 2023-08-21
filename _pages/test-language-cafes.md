@@ -2,6 +2,9 @@
 title: Test - Language Cafés
 layout: page
 permalink: /test-language-cafes/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 I want to include HTML
@@ -293,7 +296,4 @@ Atelier animé par Elena.
 				 
 			
 	   
-
-
-
 

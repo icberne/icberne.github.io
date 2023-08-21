@@ -2,6 +2,9 @@
 title: Members-Test
 layout: page
 permalink: /members-test/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 This page will be developed into an area for ICB members only. 
@@ -25,7 +28,4 @@ General Meetings are held each two years with reports and the election of the Ex
 Contact information for leaders
 
 Request for the Members Directory.
-
- Directory.
-
 

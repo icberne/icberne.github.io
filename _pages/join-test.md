@@ -2,6 +2,9 @@
 title: Join - Test
 layout: page
 permalink: /join-test/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 Give us your postal address(using the [Contact](https://icberne.org/contact-2/) form) so we can send you our Newsletters. **Take part in our activities and meet us.** After a while, we will ask you to  decide if you will join the club.
@@ -17,15 +20,10 @@ The club postal address is simply this:
 **3000 Bern**. 
 
 The **PostFinance** account is **30-106-9**.
-The** IBAN number **for paying fees is **CH95 0079 0042 3449 8516 7**. Please specify ICB and your name.
+The**IBAN number **for paying fees is **CH95 0079 0042 3449 8516 7**. Please specify ICB and your name.
 
 You may download and fill out the [Membership Application Form](https://icberne.files.wordpress.com/2021/03/015_ma-membership_application.pdf) or we can send it in paper form. We also have an optional [Interest Form](http://www.tinyurl.com/ICB-Interests-Form) so that you can tell us more about yourself, so that we can recommend specific activities and contacts. Each person in a family or household membership should fill out one form.  
 
 We look forward to welcoming you.
-
- you.
-
-
-
 
 

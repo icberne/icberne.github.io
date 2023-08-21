@@ -2,6 +2,9 @@
 title: General Comments on Interest Groups
 layout: page
 permalink: /general-interest-groups/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 # 
@@ -29,8 +32,4 @@ permalink: /general-interest-groups/
 |**Signal users**|
 |For those who use this messaging alternative|
 |[www.tinyurl.com/ICB-Signal-Chat](http://www.tinyurl.com/ICB-Signal-Chat)|Online chat|
-
-
-|
-
 

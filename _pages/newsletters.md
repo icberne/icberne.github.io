@@ -2,6 +2,9 @@
 title: Newsletters
 layout: page
 permalink: /newsletters/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 The ICB Newsletter is the main communication channel for the club. It is a paper document (remember that old stuff?). 
@@ -13,8 +16,4 @@ If you are interested in joining the club, check the page [here](/join/).
 Some of our old Newsletters can be found in [blog posts](/category/club/newsletters/).
 
  
-
-
- 
-
 

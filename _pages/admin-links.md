@@ -2,11 +2,12 @@
 title: Administration
 layout: page
 permalink: /admin-links/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
-***These are links to chat groups, google pages, dropbox, and other places which are useful for the administration of the club*.** 
-
-|**Administrative Links**|
+***These are links to chat groups, google pages, dropbox, and other places which are useful for the administration of the club*.**|**Administrative Links**|
 |---|
 |**ICB Executive Committee**|
 |[www.tinyurl.com/ICB-Executive-Committee](http://www.tinyurl.com/ICB-Executive-Committee)|Chat for the ICB Executive Committee (including Adhoc Members)|
@@ -40,5 +41,5 @@ permalink: /admin-links/
 |**Club Archive **|(on Dropbox)|
 |[www.dropbox.com/home/ICB/](http://www.dropbox.com/home/ICB/)|Folders: Administration, BGM, Groupspaces site, Newsletters|List of Administrative Links
 
-
+s
 

@@ -2,6 +2,9 @@
 title: Activity Leaders - 2022
 layout: page
 permalink: /activity-leaders-2022/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 Contact details and chat groups are listed in the ICB Newsletter. To receive our newsletter, see the page [About the Club](https://icberne.org/about/).
@@ -38,4 +41,3 @@ The Executive Committee is elected every two years at the Biennal General Assemb
 |Swimming &amp; Picnics|Handcrafts, Second Hand|
 |Museums &amp; Art Galleries|Musical Culture|
 |Many sporting groups|Dancing &amp; Fitness|
-itness|

@@ -2,6 +2,9 @@
 title: About the Club
 layout: page
 permalink: /
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 ## Who we are
@@ -19,11 +22,4 @@ permalink: /
 ## Communications
 
 - We keep in contact by different means in person or online using different media channels. Click on the [Communications](/activities/) page.
-- We post about events on our [Blog](/blog/). g](/blog/). 
-
-
-
-
-
-
-
+- We post about events on our [Blog](/blog/). 

@@ -2,6 +2,9 @@
 title: Contact the ICB
 layout: page
 permalink: /contact-2/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 Let us know your postal address we will send you our latest Newsletter. Give it a try: take part in our activities and meet our members. In a month or two we will ask you if you wish to join the Club.
@@ -16,14 +19,4 @@ Postfach
 3000 Bern
 
 [contact@icberne.org](mailto:contact@example.com)
-
-m)
-
-
-
-
-
-
-
-
 

@@ -2,6 +2,9 @@
 title: Activities
 layout: page
 permalink: /activities/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 We have Special interest groups. Click on any of the links to go to postings in our blog. Ask about WhatsApp chats.
@@ -20,7 +23,7 @@ Singing, writing, poetry.
 
 **Age-related groups**: Parents and children, parents with teenagers / Ladies / Seniors
 
-[**Get-togethers**](/category/parties/): we have a monthly **[TGIF](/category/tgif/)** (Thank Goodness It's Friday) for drinks or dining, and in Corona time, get-togethers for chatting or parties using Zoom or Skype or Google Meet. Our tasting events include wines, spirits, teas, cheeses, cigars or anything else you can think of!  Also** [Dining](/category/dining/) and sometimes [Cooking](/category/cuisine/)** groups
+[**Get-togethers**](/category/parties/): we have a monthly **[TGIF](/category/tgif/)** (Thank Goodness It's Friday) for drinks or dining, and in Corona time, get-togethers for chatting or parties using Zoom or Skype or Google Meet. Our tasting events include wines, spirits, teas, cheeses, cigars or anything else you can think of!  Also**[Dining](/category/dining/) and sometimes [Cooking](/category/cuisine/)** groups
 
 **[Sports Activities](/category/sport/)** of many kinds: 
 
@@ -44,10 +47,5 @@ Sophie Reading Group - the group for all readers
 Special groups for genres:  SciFi, Crime &amp; Spy
 Also short stories, non-fiction, biographies 
 Special groups for regions: British Books / Americana / Oriental / Africa / Swiss and German / Oceania
-
-/ Oceania
-
-
-
 
 

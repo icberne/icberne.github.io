@@ -2,6 +2,9 @@
 title: 
 layout: page
 permalink: /join/
+header:
+  image: /assets/images/bernSkylineWide.jpg
+  image_description: "City of Bern skyline"
 ---
 
 ## How to join the Club
@@ -28,10 +31,4 @@ Please specify ICB and your name on the payment.
 Please download and complete the [Membership Application Form](https://icberne.files.wordpress.com/2021/03/015_ma-membership_application.pdf). You can also complete the [Interest Form](http://www.tinyurl.com/ICB-Interests-Form) so we can be aware about your special interests. 
 
 We look forward to meeting you.
-
-g you.
-
-
-
-
 
