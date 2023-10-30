@@ -15,7 +15,7 @@ Accessing this website and its blog does not mean joining the Club.
 
 **Membership**:is open to anyone but is more useful to those living in Berne or about to move there or its surroundings.
 
-**Yearly fees**: CHF 50 (membership for a single membership and CHF 60 (for a family).&nbsp;
+**Yearly fees**: CHF 50 (membership for a single membership and CHF 70 (for a family or household).&nbsp;
 
 **Club postal address: **
 International Club of Berne
